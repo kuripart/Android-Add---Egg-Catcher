@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Add---Egg-Catcher.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Add---Egg-Catcher.iml" group="Android-Add---Egg-Catcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Add---Egg-Catcher-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Add---Egg-Catcher-app.iml" group="Android-Add---Egg-Catcher/app" />
       <module fileurl="file://$PROJECT_DIR$/Eggcatcherv2.iml" filepath="$PROJECT_DIR$/Eggcatcherv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
